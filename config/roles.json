@@ -1,0 +1,20 @@
+[
+  {
+    "role": "admin",
+    "permissions": [
+      "createSequence",
+      "getByIdSequence",
+      "updateSequence",
+      "getAllSequence",
+      "deleteSequence",
+      "createUser",
+      "getTotal",
+      "getByRole",
+      "updateRole"
+    ]
+  },
+  {
+    "role": "user",
+    "permissions": ["createSequence", "getByIdSequence", "getAllSequence"]
+  }
+]
