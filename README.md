@@ -75,6 +75,7 @@ The request body for specific routes follows the following schema:
 3. Run `yarn install` to install the project dependencies.
 4. Configure the necessary environment variables, such as the MongoDB database connection and the secret key for generating and verifying JWT tokens.
 5. Run `yarn start` to start the server.
+6. Root URL https://sequence-rz36.onrender.com/
 
 Once the server is up and running, you can make requests to the different routes using an appropriate HTTP client such as Postman or curl.
 
